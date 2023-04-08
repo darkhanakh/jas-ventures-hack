@@ -9,6 +9,12 @@
           <img class="h-8 w-auto" src="@/assets/logo.svg" alt="site logo" />
         </a>
       </div>
+      <div class="lg:justify-center lg:flex lg:flex-1">
+        <p class= "rounded-full text-lg font-semibold leading-6 text-white">
+          ShepherdVision  
+        </p>
+
+      </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end">
         <a href="#" class="rounded-full text-lg font-semibold leading-6 text-white"
           >Перейти в дашборд
