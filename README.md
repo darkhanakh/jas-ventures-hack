@@ -8,6 +8,8 @@ By leveraging deep learning algorithms, we have trained our model to detect shee
 In addition to detection, our project would be capable of tracking, defending and control sheeps' path by managing our drones in specific ways. 
 This feature is particularly useful for farmers and landowners who need to monitor their flocks and ensure their safety, without having to worry about their health.
 
-To navigate
+In this repo, you can see the code for the prototype of our website and our AI model.
 
-We hope you find our AI tool to be a valuable addition to your agricultural operations. If you have any questions or feedback, please feel free to reach out to us via the GitHub Issues page. Thank you for considering our project for evaluation!
+We hope you find our tool to be a valuable contribution to agricultural activity in our country. 
+If you have any questions or feedback, please feel free to reach out to us.
+Thank you for considering our project for evaluation!
