@@ -6,18 +6,15 @@
     >
       <div class="flex lg:flex-1">
         <a href="#" class="-m-1.5 p-1.5">
-          <img class="h-8 w-auto" src="@/assets/logo.svg" alt="site logo" />
+          <img class="h-32 w-auto" src="@/assets/logo1.jpg" alt="site logo" />
         </a>
       </div>
-      <div class="lg:justify-center lg:flex lg:flex-1">
-        <p class= "rounded-full text-lg font-semibold leading-6 text-white">
-          ShepherdVision  
-        </p>
-
+      <div class="lg:flex lg:flex-1 lg:justify-center">
+        <p class="rounded-full text-lg font-semibold leading-6 text-white"></p>
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end">
-        <router-link class="rounded-full text-lg font-semibold leading-6 text-white" to="/dashboard"
-          >Перейти в дашборд
+        <router-link class="rounded-full text-lg font-semibold leading-6 text-white" to="/"
+          >ShepherdVision
         </router-link>
       </div>
     </nav>
