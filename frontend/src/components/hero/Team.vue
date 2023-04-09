@@ -27,32 +27,38 @@
   </section>
 </template>
 <script>
+import AzaPicture from '@/assets/Aza.jpg'
+import EdilkaPicture from '@/assets/Edilka.jpg'
+import AskarPicture from '@/assets/Askar.jpg'
+import TemirPicture from '@/assets/Temir.jpg'
+import DarkhPicture from '@/assets/Darkh.jpg'
+
 export default {
   data() {
     return {
       team: [
         {
-          avatar: 'Aza.jpg',
+          avatar: AzaPicture,
           name: 'Azamat Katymgali',
           title: 'Product designer'
         },
         {
-          avatar: 'Edilka.jpg',
+          avatar: EdilkaPicture,
           name: 'Temirlan Yedil',
           title: 'ML engineer'
         },
         {
-          avatar: 'Askar.jpg',
+          avatar: AskarPicture,
           name: 'Askar Nurakhmet',
           title: 'Full stack engineer'
         },
         {
-          avatar: 'Temir.jpg',
+          avatar: TemirPicture,
           name: 'Temirlan Sartbayev',
           title: 'Data science engineer'
         },
         {
-          avatar: 'Darkh.jpg',
+          avatar: DarkhPicture,
           name: 'Darkhan Akhmetov',
           title: 'Head developer'
         }
