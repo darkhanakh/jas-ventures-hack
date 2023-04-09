@@ -10,9 +10,9 @@
         </a>
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end">
-        <a href="#" class="rounded-full text-lg font-semibold leading-6 text-white"
+        <router-link class="rounded-full text-lg font-semibold leading-6 text-white" to="/dashboard"
           >Перейти в дашборд
-        </a>
+        </router-link>
       </div>
     </nav>
   </header>
