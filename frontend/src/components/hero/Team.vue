@@ -14,7 +14,7 @@
         <ul class="grid gap-8 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
           <li v-for="(item, idx) in team" :key="idx">
             <div class="h-25 w-25 mx-auto">
-              <img :src="'/assets/' + item.avatar" class="h-72 w-56 rounded-3xl" alt="" />
+              <img :src="item.avatar" class="h-72 w-56 rounded-3xl" alt="" />
             </div>
             <div class="mt-2">
               <h4 class="font-semibold text-white sm:text-lg">{{ item.name }}</h4>
